@@ -9,7 +9,7 @@ I trained on the ped2, avenue and ShanghaiTech datasets, the results:
 |  SPLF (ours)    |97.5%        | 88.7%              |75.1%|
 
 ### The network pipeline.  
-![Example 0](pipeline.png)
+![Example 0](contents/pipeline.png)
 
 ## Environments  
 PyTorch >= 1.1.  
